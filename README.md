@@ -13,7 +13,7 @@ The project data files have not been uploaded to this repository in compliance w
 
 ## Contents:
 Please find the sectional links for the project below:
-- [BI 360 Live Report Link]((https://app.powerbi.com/view?r=eyJrIjoiNjFkYzgwZTItMGEwNi00ZTYyLTk1NTMtZmIyMTFmN2QzNzZiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+- [BI 360 Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNjFkYzgwZTItMGEwNi00ZTYyLTk1NTMtZmIyMTFmN2QzNzZiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 - [Introduction to AtliQ Hardware](#introduction-to-atliq-hardware)
 - [Project Objective](#project-objective)
 - [Tools used & Methodologies implemented](#tools-used)
