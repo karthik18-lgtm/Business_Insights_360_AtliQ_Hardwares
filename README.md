@@ -1,4 +1,4 @@
-# Business_Insights_360_AtliQ_Hardwares# <img src="https://miro.medium.com/v2/resize:fit:1400/1*8bUjUiCWk0VhS8-lgAj0Og.png" width="4%" height="4%"> Business Insights 360
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*8bUjUiCWk0VhS8-lgAj0Og.png" width="4%" height="4%"> Business Insights 360
 
 <div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Assets/BI%20360%20Project%20Thumbnail%2BLogo.png" width="100%" height="100%"> </div>
 
@@ -13,7 +13,7 @@ The project data files have not been uploaded to this repository in compliance w
 
 ## Contents:
 Please find the sectional links for the project below:
-- [BI 360 Live Report Link](https://mavenanalytics.io/project/19189)
+- [BI 360 Live Report Link]((https://app.powerbi.com/view?r=eyJrIjoiNjFkYzgwZTItMGEwNi00ZTYyLTk1NTMtZmIyMTFmN2QzNzZiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 - [Introduction to AtliQ Hardware](#introduction-to-atliq-hardware)
 - [Project Objective](#project-objective)
 - [Tools used & Methodologies implemented](#tools-used)
