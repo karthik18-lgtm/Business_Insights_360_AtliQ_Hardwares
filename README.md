@@ -99,7 +99,7 @@ ROCCC Evaluation:
 ---
 
 ## Data Model:
-<div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Data%20Model/Data%20Model%20Final.PNG" width="100%" height="100%"> </div>
+<div align="center"> <img src="(https://github.com/karthik18-lgtm/Business_Insights_360_AtliQ_Hardwares/blob/main/Data%20Model/Data%20Model%20Final.PNG)" width="100%" height="100%"> </div>
 
 ---
 
