@@ -1083,31 +1083,31 @@ Central navigation hub with easy access to all views, complete with support and 
 
 Enhances financial planning and cost control, featuring a P&L Statement, Net Sales Trend and Breakdown by Products/Customers and more.
 
-<div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Power%20BI%20Report/Report%20Images/Business%20Insights%20360%20Report%20-%20Reinvented%20-%20Finance%20View.png" width="100%" height="100%"> </div>
+<div align="center"> <img src="https://github.com/karthik18-lgtm/Business_Insights_360_AtliQ_Hardwares/blob/main/Power%20BI%20Report%20/Report%20Images/Finance%20View.png" width="100%" height="100%"> </div>
 
 ### III. Sales View:
 
 Focuses on boosting sales revenue and tracking customer performance, including Gross Margin % Variance across Customers/Products and more.
 
-<div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Power%20BI%20Report/Report%20Images/Business%20Insights%20360%20Report%20-%20Reinvented%20-%20Sales%20View.png" width="100%" height="100%"> </div>
+<div align="center"> <img src="https://github.com/karthik18-lgtm/Business_Insights_360_AtliQ_Hardwares/blob/main/Power%20BI%20Report%20/Report%20Images/Sales%20View.png" width="100%" height="100%"> </div>
 
 ### IV. Marketing View:
 
 Elevates brand visibility and evaluates marketing campaign ROI, with insights into Segment Performance, Net Profit % Variance across Regions and more.
 
-<div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Power%20BI%20Report/Report%20Images/Business%20Insights%20360%20Report%20-%20Reinvented%20-%20Marketing%20View.png" width="100%" height="100%"> </div>
+<div align="center"> <img src="https://github.com/karthik18-lgtm/Business_Insights_360_AtliQ_Hardwares/blob/main/Power%20BI%20Report%20/Report%20Images/Market%20View.png" width="100%" height="100%"> </div>
 
 ### V. Supply Chain View:
 
 Optimizes inventory management and demand forecasting, featuring trends in Forecast Accuracy and Inventory Stock Risk by Customers/Products.
 
-<div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Power%20BI%20Report/Report%20Images/Business%20Insights%20360%20Report%20-%20Reinvented%20-%20Supply%20Chain%20View.png" width="100%" height="100%"> </div>
+<div align="center"> <img src="https://github.com/karthik18-lgtm/Business_Insights_360_AtliQ_Hardwares/blob/main/Power%20BI%20Report%20/Report%20Images/Supply%20Chain%20View.png" width="100%" height="100%"> </div>
 
 ### VI. Executive View:
 
 Provides a high-level overview of organizational performance for top AtliQ executives and senior management, showcasing business KPIs, Revenue Contributions by Division/Channel, Top Customers & Products, AtliQ's Market Share Trend and more.
 
-<div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Power%20BI%20Report/Report%20Images/Business%20Insights%20360%20Report%20-%20Reinvented%20-%20Executive%20View.png" width="100%" height="100%"> </div>
+<div align="center"> <img src="https://github.com/karthik18-lgtm/Business_Insights_360_AtliQ_Hardwares/blob/main/Power%20BI%20Report%20/Report%20Images/Executive%20View.png" width="100%" height="100%"> </div>
 
 ---
 
