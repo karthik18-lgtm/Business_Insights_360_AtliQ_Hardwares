@@ -1,7 +1,5 @@
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*8bUjUiCWk0VhS8-lgAj0Og.png" width="4%" height="4%"> Business Insights 360
 
-<div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Assets/BI%20360%20Project%20Thumbnail%2BLogo.png" width="100%" height="100%"> </div>
-
 This repository serves as my documentation for the AtliQ Hardwares Business Insights 360 - Power BI Project.
 It was created as a self-learning project for the course: [Get Job Ready: Power BI Data Analytics for All Levels 2.0](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project) by [Codebasics](https://codebasics.io/).
 
@@ -1079,7 +1077,7 @@ Table Relationships to be setup:
 
 Central navigation hub with easy access to all views, complete with support and information manual.
 
-<div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Power%20BI%20Report/Report%20Images/Business%20Insights%20360%20Report%20-%20Reinvented%20-%20Home%20View.png" width="100%" height="100%"> </div>
+<div align="center"> <img src="https://github.com/karthik18-lgtm/Business_Insights_360_AtliQ_Hardwares/blob/main/Power%20BI%20Report%20/Report%20Images/Home%20Page.png" width="100%" height="100%"> </div>
 
 ### II. Finance View:
 
